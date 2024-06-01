@@ -15,3 +15,4 @@
 **正在进行3.2.2测试**
 
 [最新体验网址](https://antlerpotato.github.io/drawboard_test3/)
+最后更新日期：2024.6.2
